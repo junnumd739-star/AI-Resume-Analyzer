@@ -48,6 +48,9 @@ stream-lit run app.py
 ### Match Score
 ![Score](assets/screenshot4.png)
 
+### AI Suggestions
+![Suggestions](assets/screenshot5.png)
+
 ## 👨‍💻 Author
 
 **Mohammed Abdul Juned**
