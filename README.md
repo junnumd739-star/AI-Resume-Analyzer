@@ -33,14 +33,20 @@ AI-Resume-Analyzer/
 ```bash
 pip install -r requirements.txt
 stream-lit run app.py
-```
-## Screenshots
+``` 
+## 📸 Screenshots
 
-![Home](assets/Screenshot1.png)
-![Upload](assets/Screenshot2.png)
-![Analysis](assets/Screenshot3.png)
-![Match Score](assets/Screenshot4.png)
-![AI Suggestions](assets/Screenshot5.png)
+### Home
+![Home](assets/screenshot1.png)
+
+### Resume Upload
+![Upload](assets/screenshot2.png)
+
+### Analysis
+![Analysis](assets/screenshot3.png)
+
+### Match Score
+![Score](assets/screenshot4.png)
 
 ## 👨‍💻 Author
 
